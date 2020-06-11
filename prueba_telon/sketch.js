@@ -45,8 +45,8 @@ function setup() {
   hoverOverMe3.position(windowWidth/2-10, windowHeight/2-160);
   hoverOverMe4.position(windowWidth/2+190, windowHeight/2-180);
   hoverOverMe5.position(windowWidth-180, windowHeight/2-200);
-  hoverOverMe6.position(windowWidth/2, windowHeight/2-10);
-  hoverOverMe7.position(windowWidth/2-30, windowHeight/2+100);
+  hoverOverMe6.position(windowWidth/2, windowHeight/2+10);
+  hoverOverMe7.position(windowWidth/2-30, windowHeight/2+130);
   
 
   hoverOverMe.mouseOver(() => showInfo = true);
