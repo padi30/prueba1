@@ -204,7 +204,7 @@ function draw() {
   }
  
      if (showInfo7) {
-    image(img7, windowWidth/2+90, windowHeight/2+100);
+    image(img7, windowWidth/2+90, windowHeight/2+160);
     img7.resize(windowWidth/7,windowHeight/4);
    let a= '\n -That what we wanted to bring was, well, everything to do with nature, all of that which surrounds us, as well as the ethnic groups, there are the afro and there are the indigenous people who are capturing an indigenous frase there that means union. \n -Carebaibarabua which means union, banquet, community work.' ;
 
